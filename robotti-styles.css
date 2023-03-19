@@ -1472,7 +1472,7 @@ font-family: Adam, sans-serif;
 .main-hero-clip::after {
 content:"";
 height:150px;
-clip-path: polygon(0% 0%, 100% 0%, 100% 60%, 50% 100%, 0% 60%);
+clip-path: polygon(0% 62%, 100% 0%, 100% 60%, 50% 100%, 0% 62%);
 -webkit-clip-path: polygon(0% 62%, 100% 0%, 100% 60%, 50% 100%, 0% 62%);
 width:100%;
 background: #ffbd00;
